@@ -1,5 +1,7 @@
 # ICM  - Mid degree project 
 
+Author Yuda Hatam, Chen Hess, Ira Goor, Eden Shwarte and Idan Abergel.
+
 Developed software that simulates management information system.
 
 Based on Client-Server
